@@ -1340,6 +1340,33 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "testPOkemon",
+      "hp": "45",
+      "sprites": {
+        "front": "123",
+        "back": "456"
+      },
+      "id": 151
+    },
+    {
+      "name": "testPokemon2",
+      "hp": "35",
+      "sprites": {
+        "front": "987",
+        "back": "456"
+      },
+      "id": 152
+    },
+    {
+      "name": "testPokemon3",
+      "hp": "78",
+      "sprites": {
+        "front": "123",
+        "back": "876"
+      },
+      "id": 153
     }
   ]
 }
